@@ -1,3 +1,5 @@
-purple #4d2035
-yellow #fbb533
-green #2f7e34
+#Stars Background
+* the stars are positioned according to the screen resolution
+* I hope this will be useful for someone
+
+special thanks to: Matheus Freitas
