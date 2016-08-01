@@ -1,9 +1,9 @@
 function blinker() {
   $('.star').each(function(index, item) {
-    var Speed = Math.floor(Math.random() * 2000) + 1000;
+    var Speed = Math.floor(Math.random() * 4000) + 1000;
     $(item).fadeOut(Speed).fadeIn(Speed);
   });
-  setTimeout(blinker, 500);
+  setTimeout(blinker, 3900);
 }
 
 blinker();
